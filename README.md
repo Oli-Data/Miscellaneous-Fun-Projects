@@ -1,6 +1,6 @@
 # Miscellaneous & Fun Projects
 
-This repo is my catch-all for random projects—little apps, utilities, and experiments I’ve built to test ideas or solve small problems. Nothing too formal, just stuff I wanted to create and keep around.
+This repo is my catch-all for random projects, little apps, utilities, and experiments I’ve built to test ideas or solve small problems. Nothing too formal, just stuff I wanted to create and keep around.
 
 ---
 
