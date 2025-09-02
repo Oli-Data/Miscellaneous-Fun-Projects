@@ -1,6 +1,6 @@
 # ✨ Oli's Quote Generator
 
-Welcome to **Oli's Quote Generator** — a quick, fun, and emotionally layered Python program that delivers quotes based on your vibe. Whether you’re feeling motivational, flirty, unhinged, or just in the mood for some *Nova-approved wisdom*, this program has your back.
+Welcome to **Oli's Quote Generator**, a quick, fun, and emotionally layered Python program that delivers quotes based on your vibe. Whether you’re feeling motivational, flirty, unhinged, or just in the mood for some *Nova-approved wisdom*, this program has your back.
 
 ## 💻 What It Does
 
