@@ -21,7 +21,7 @@ Generates secure passwords based on user-specified length and character requirem
 ### [Oli's Expense Tracker](./Oli's%20Expense%20Tracker)
 Tracks expenses and calculates totals. A small step toward personal finance organization.
 
-### [Random Quote Generator](.Random%20Quote%20Generator) 
+### [Random Quote Generator](./Random%20Quote%20Generator) 
 A quick, fun, and emotionally layered Python program that delivers quotes based on your vibe. Whether you’re feeling motivational, flirty, unhinged, or just in the mood for some *Nova-approved wisdom*, this program has your back.
 
 ### [Twelve Days of Christmas App](./Twelve%20Days%20of%20Christmas%20App)
